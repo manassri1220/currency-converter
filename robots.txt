@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manassri1220.github.io/currency-converter/sitemap.xml
